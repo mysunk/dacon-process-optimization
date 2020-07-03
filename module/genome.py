@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 from module.simulator import Simulator
-from util import *
+# from util import *
 from scipy.special import expit
 import scipy.special as sc
 
